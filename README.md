@@ -1,3 +1,5 @@
+<h1>이 저장소는 next를 공부하면서 만드는 간단한 프로젝트입니다</h1>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
