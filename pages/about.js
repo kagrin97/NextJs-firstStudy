@@ -1,13 +1,10 @@
-import NavBar from "../components/NavBar";
-import { useRouter } from "next/router";
+import Seo from "../components/Seo";
 
-export default function About() {
-  const router = useRouter();
-  console.log(router);
+export default function Potato() {
   return (
     <div>
-      <NavBar />
-      <h1>THIS IS ABOUT</h1>
+      <Seo title="About" />
+      <h1>About</h1>
     </div>
   );
 }
